@@ -84,4 +84,9 @@ const domenico = {
 
 ### My Stats here on Github
 
-![dSyncro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dSyncro&show_icons=true&theme=dracula&hide=stars,issues)
+![dSyncro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dSyncro&show_icons=true&theme=default&hide=stars,issues)
+
+## Projects I am Proud Of
+
+[![Detective Card](https://github-readme-stats.vercel.app/api/pin/?username=dSyncro&repo=Detective)](https://github.com/dSyncro/Detective)
+[![AnsiStyle Card](https://github-readme-stats.vercel.app/api/pin/?username=dSyncro&repo=AnsiStyle)](https://github.com/dSyncro/AnsiStyle)
