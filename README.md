@@ -1,8 +1,8 @@
-# Hey You! This is work in progress! You are not supposed to be here yet!
+# Hi, I am [Domenico](https://github.com/dSyncro/)! 👋 [![Commits Badge](https://badges.pufler.dev/commits/monthly/dSyncro)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/dSyncro)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/dSyncro/dSyncro)](https://badges.pufler.dev)
 
-# Hi, I am [Domenico](https://github.com/dSyncro/)! 👋
+My name is Domenico, I am a 18 years old developer based in Italy. Passionate about difficult things.
+Problem Solver 🎓.
 
-My name is Domenico, I am a 18 years old developer based in Italy.
 
 ## Follow Me On
 
@@ -18,12 +18,12 @@ My name is Domenico, I am a 18 years old developer based in Italy.
 
 * 🔭 I’m currently working on several projects of different kind, from web apps to compilers.
 * 🌱 I’m currently learning [OpenGL](https://www.opengl.org/).
-* 👯 I’m looking to collaborate on ...
+* 👯 I’m looking to collaborate on everything I am capable of!
 * 🤔 I’m looking for help with basically every public repository you see [there](https://github.com/dSyncro/).
 * 💬 Ask me about anything if you need. Or maybe just contact me to chat!
 * 📫 You can reach me by any of the contact listed [here](#find-me-on).
 * 😄 Pronouns: *He* / *His*. Well, actually while talking I think *You* is enought...
-* ⚡ Fun fact: ...
+* ⚡ Fun fact: I have lost way too much time to write this.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dSyncro&layout=compact)](https://github.com/dSyncro/github-readme-stats)
 
@@ -73,8 +73,11 @@ My name is Domenico, I am a 18 years old developer based in Italy.
 
 const domenico = {
   pronouns: 'He' | 'Him',
-  languages: [Italian, English, HTML, JS, CSS, C, Cpp, CSharp, PHP, Python, Java, SQL],
-  tools: [Visual Studio, VSCode, Unity, Photoshop, Blender, Git],
+  languages: [Italian, English],
+  codeIn: [JS, HTML, CSS, Python, C, Cpp, CSharp, Java, PHP, Kotlin, Dart, Lua, Shell],
+  webFrameworks: [Bootstrap, JQuery, Django, Flutter],
+  gameEngines: [Unity, Unreal Engine],
+  tools: [XD, Photoshop, Illustrator, Blender, Git, Github],
 };
 
 ```
@@ -82,7 +85,3 @@ const domenico = {
 ### My Stats here on Github
 
 ![dSyncro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dSyncro&show_icons=true&theme=dracula&hide=stars,issues)
-
-
-# Wow you came to the end! See how cool my octocat is
-![My Octocat](https://octocat-generator-assets.githubusercontent.com/my-octocat-1611837156572.png)
