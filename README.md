@@ -1,4 +1,4 @@
-# Hi, I am [Domenico](https://github.com/dSyncro/)! 👋 [![Commits Badge](https://badges.pufler.dev/commits/monthly/dSyncro)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/dSyncro)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/dSyncro/dSyncro)](https://badges.pufler.dev)
+# Hi, I am [Domenico](https://github.com/dSyncro/)! 👋 [![Repos Badge](https://badges.pufler.dev/repos/dSyncro)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/dSyncro/dSyncro)](https://badges.pufler.dev)
 
 My name is Domenico, I am a 18 years old developer based in Italy. Passionate about difficult things.
 Problem Solver 🎓.
