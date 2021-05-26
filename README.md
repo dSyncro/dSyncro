@@ -17,7 +17,7 @@ Problem Solver 🎓.
 ## About me
 
 * 🔭 I’m currently working on several projects of different kind, from web apps to compilers.
-* 🌱 I’m currently learning [OpenGL](https://www.opengl.org/), [Typescript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/), [React](https://reactjs.org/).
+* 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/).
 * 👯 I’m looking to collaborate on everything I am capable of!
 * 🤔 I’m looking for help with basically every public repository you see [there](https://github.com/dSyncro/).
 * 💬 Ask me about anything if you need. Or maybe just contact me to chat!
