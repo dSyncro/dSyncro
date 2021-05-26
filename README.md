@@ -22,7 +22,7 @@ Problem Solver 🎓.
 * 🤔 I’m looking for help with basically every public repository you see [there](https://github.com/dSyncro/).
 * 💬 Ask me about anything if you need. Or maybe just contact me to chat!
 * 📫 You can reach me by any of the contact listed [here](#find-me-on).
-* 😄 Pronouns: *He* / *His*. Well, actually while talking I think *You* is enough...
+* 😄 Pronouns: *He* / *His*. Well, actually I think *You* is enough in most situations...
 * ⚡ Fun fact: I have lost way too much time to write this.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dSyncro&layout=compact)](https://github.com/dSyncro/github-readme-stats)
