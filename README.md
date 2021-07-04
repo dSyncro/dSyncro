@@ -1,6 +1,6 @@
 # Hi, I am [Domenico](https://dsyncro.github.io/)! 👋 [![Repos Badge](https://badges.pufler.dev/repos/dSyncro)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/dSyncro/dSyncro)](https://badges.pufler.dev)
 
-My name is Domenico, I am a 18 years old developer based in Italy. Passionate about difficult things.
+My name is Domenico, I am a 19 years old developer based in Italy. Passionate about difficult things.
 Problem Solver 🎓.
 
 
